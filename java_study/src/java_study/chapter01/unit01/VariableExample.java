@@ -1,4 +1,4 @@
-package java_study.chapter01;
+package java_study.chapter01.unit01;
 
 public class VariableExample {
 	public static void main(String[] args) {
